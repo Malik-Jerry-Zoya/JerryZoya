@@ -184,7 +184,7 @@ def mb():
 	    psb('Congratulations Malik Jerry Tool Has Been Updated Successfully')
 	    psb('🔓User Name☆ Malik✓')
 	    psb('🔓Password ☆ Jerry✓')
-	    psb('Subscrib My Youtube Channel Malik's Official✓')
+	    psb('Subscrib My Youtube Channel Malik Official✓')
 	    psb('Please Login Again')
 	    time.sleep(2)
 	    os.system('cd $HOME/B4_BALOCH && python2 bondah.py')
